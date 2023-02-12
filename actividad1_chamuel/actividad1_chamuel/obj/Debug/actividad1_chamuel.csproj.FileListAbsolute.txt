@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\obj\Debug\actividad1_chamuel.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\obj\Debug\actividad1_chamuel.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\bin\Debug\actividad1_chamuel.exe.config
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\bin\Debug\actividad1_chamuel.exe
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\bin\Debug\actividad1_chamuel.pdb
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\obj\Debug\actividad1_chamuel.exe
+C:\Users\USUARIO\source\repos\actividad1_chamuel\actividad1_chamuel\obj\Debug\actividad1_chamuel.pdb
